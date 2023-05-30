@@ -5,7 +5,7 @@
 ## Summary
 | Code      | Name        | Published Article |  Deployed App |
 |-----------|-------------|:-------------:|------:|
-| LP2 | Regression |  [https://medium.com/@stephen.aidoo/customer-churn-prediction-and-retention-strategies-c0667a327dc9](/) | [](/) |
+| LP3 | Regression |  [https://medium.com/@stephen.aidoo/customer-churn-prediction-and-retention-strategies-c0667a327dc9](/) | [](/) |
 
 ## Project Description
 <H1 style="text-align: center;font-size:30px ; font-family: 'Times New Roman'; color:#00008B"> Project Title</H1>
